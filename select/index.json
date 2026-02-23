@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "彩り",
+  "base_artist": "Mr.Children",
+  "createdAt": "2026-02-23T16:17:25.877647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "彩り",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/01_彩り_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "彩り",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/02_彩り_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "彩り",
+      "artist": "King & Prince",
+      "has_synced": true,
+      "path": "select/03_彩り_King_&_Prince.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "彩り - Irodori",
+      "artist": "King & Prince",
+      "has_synced": true,
+      "path": "select/04_彩り_-_Irodori_King_&_Prince.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "彩り",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/05_彩り_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "彩り",
+      "artist": "ねぐせ。",
+      "has_synced": true,
+      "path": "select/06_彩り_ねぐせ。.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "彩り - Irodori",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/07_彩り_-_Irodori_Superfly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "彩り",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_彩り_Mr.Children.txt"
+    }
+  ]
+}
